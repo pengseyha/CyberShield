@@ -100,5 +100,5 @@ This project helps demonstrate:
 
 # 👨‍💻 Developer
 
-Developed by Peng Seyha
+Developed by **Peng Seyha** \
 Cybersecurity • SOC Operations • Defensive Security • Bash Automation
